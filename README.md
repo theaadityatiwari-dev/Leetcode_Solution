@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0977-squares-of-a-sorted-array](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0680-valid-palindrome-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
