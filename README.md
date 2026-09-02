@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
+| [0680-valid-palindrome-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -38,8 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
+| [0680-valid-palindrome-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
