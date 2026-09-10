@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0368-largest-divisible-subset](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -80,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
