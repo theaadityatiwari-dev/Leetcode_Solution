@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0680-valid-palindrome-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
