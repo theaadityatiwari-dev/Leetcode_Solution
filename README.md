@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0392-is-subsequence) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0368-largest-divisible-subset](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## String
 |  |
 | ------- |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0036-valid-sudoku) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
