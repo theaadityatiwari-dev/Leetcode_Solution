@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0038-count-and-say) |
 | [0392-is-subsequence](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0680-valid-palindrome-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0680-valid-palindrome-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Stack
 |  |
 | ------- |
