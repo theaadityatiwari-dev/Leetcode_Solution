@@ -6,6 +6,6 @@ class Solution {
         int distanceX = xCenter - closestX;
         int distanceY = yCenter - closestY;
         
-        return (distanceX * distanceX) + (distanceY * distanceY) <= (radius * radius);
+        return (distanceX * distanceX + distanceY * distanceY) <= (radius * radius);
     }
 }
