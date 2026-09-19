@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0258-add-digits) |
 | [0368-largest-divisible-subset](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## String
 |  |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0258-add-digits) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
