@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/3524-find-x-value-of-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/3524-find-x-value-of-array-i) |
 ## String
 |  |
 | ------- |
