@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0038-count-and-say) |
 | [0392-is-subsequence](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0680-valid-palindrome-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
