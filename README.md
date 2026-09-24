@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0057-insert-interval) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0383-ransom-note) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
