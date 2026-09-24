@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0036-valid-sudoku) |
+| [0205-isomorphic-strings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0038-count-and-say) |
+| [0205-isomorphic-strings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0680-valid-palindrome-ii) |
