@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0036-valid-sudoku) |
 | [0205-isomorphic-strings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0541-reverse-string-ii) |
@@ -169,5 +171,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
