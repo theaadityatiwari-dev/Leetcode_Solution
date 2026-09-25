@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [1096-brace-expansion-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0680-valid-palindrome-ii) |
+| [1096-brace-expansion-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
+| [1096-brace-expansion-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -179,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
