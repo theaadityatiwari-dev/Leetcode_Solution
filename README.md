@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0053-maximum-subarray) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [1096-brace-expansion-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
