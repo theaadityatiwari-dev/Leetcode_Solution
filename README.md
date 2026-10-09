@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0392-is-subsequence) |
@@ -221,10 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
