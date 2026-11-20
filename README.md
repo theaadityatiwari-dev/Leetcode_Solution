@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3524-find-x-value-of-array-i](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3524-find-x-value-of-array-i](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/theaadityatiwari-dev/Leetcode_Solution/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
